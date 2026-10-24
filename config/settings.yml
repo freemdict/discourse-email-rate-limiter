@@ -1,0 +1,5 @@
+plugins:
+  email_signup_rate_limit_enabled:
+    default: true
+    client: false
+    description: "Enable rate limiting on signups and password reset emails per destination email address."
